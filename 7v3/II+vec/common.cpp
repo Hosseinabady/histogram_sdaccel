@@ -22,7 +22,7 @@ SOFTWARE.
 *
 * File name : common.cpp
 * author    : Mohammad hosseinabady mohammad@hosseinabady.com
-* date      : 1 October 2016
+* date      : 1 October 2017
 * blog: https://highlevel-synthesis.com/
 */
 
