@@ -1,4 +1,4 @@
-/* File: histogram.cpp
+/* File: histogram.h
  *
  Copyright (c) [2016] [Mohammad Hosseinabady (mohammad@hosseinabady.com)]
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -20,7 +20,7 @@ SOFTWARE.
 * This file has been written at University of Bristol
 * for the ENPOWER project funded by EPSRC
 *
-* File name : histogram.cpp
+* File name : histogram.h
 * author    : Mohammad hosseinabady mohammad@hosseinabady.com
 * date      : 1 October 2017
 * blog: https://highlevel-synthesis.com/
